@@ -44,9 +44,9 @@
   "homepage": "https://github.com/ngrx/store-log-monitor#readme",
   "peerDependencies": {
     "rxjs": "^5.0.0-beta.11",
-    "@angular/core": "^2.0.0-rc.6",
-    "@ngrx/store": "^2.0.0",
-    "@ngrx/store-devtools": "^3.0.0",
+    "@angular/core": "^4.4.6",
+    "@ngrx/store": "^4.1.1",
+    "@ngrx/store-devtools": "^4.1.1",
     "@ngrx/core": "^1.2.0"
   },
   "devDependencies": {
